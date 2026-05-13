@@ -1,3 +1,5 @@
+可以节省token 降噪 ，官网地址：https://www.rtk-ai.app/#install
+
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/258253854?v=4" alt="RTK - Rust Token Killer" width="500">
 </p>
